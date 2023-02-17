@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PVKonovalov
-- 👀 I’m interested in Golang, Python, C/C++, SmartGrids, Industrial protocols
+- 👀 I’m interested in Golang, Python, C/C++, SmartGrids, Industrial communication protocols
 
 <!---
 PVKonovalov/PVKonovalov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
